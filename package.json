@@ -11,7 +11,7 @@
 	"author": "Coder",
 	"license": "MIT",
 	"peerDependencies": {
-		"@google-cloud/logging": "^4.5.2"
+		"@google-cloud/logging": "^9.0.0"
 	},
 	"devDependencies": {
 		"@types/jest": "^24.0.16",
